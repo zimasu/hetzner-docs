@@ -3,13 +3,6 @@ site_url: https://docs.zidanesyukri.me
 site_author: zimasu
 
 nav:
-  - Home: index.md
-  - Linux: linux/index.md
-  - Git: git/index.md
-  - Docker: docker/index.md
-  - Ansible: ansible/index.md
-  - Kubernetes: kubernetes/index.md
-  - Databases: databases/index.md
-
+  - index: index.md
 theme:
-  name: readthedocs
+  name: terminal
